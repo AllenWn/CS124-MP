@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$IntegrationTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-05T06:18:22" hostname="ALLEN-LEGION" time="11.802">
+  <properties/>
+  <testcase name="test2_ClientGETRating" classname="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$IntegrationTests" time="3.522"/>
+  <testcase name="test3_ClientPOSTRating" classname="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$IntegrationTests" time="1.347"/>
+  <testcase name="test4_RatingView" classname="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$IntegrationTests" time="6.933"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

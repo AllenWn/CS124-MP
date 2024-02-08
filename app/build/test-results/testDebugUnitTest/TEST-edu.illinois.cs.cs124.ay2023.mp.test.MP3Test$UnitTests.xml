@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$UnitTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-05T06:18:34" hostname="ALLEN-LEGION" time="2.466">
+  <properties/>
+  <testcase name="test0_ServerGETRating" classname="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$UnitTests" time="0.826"/>
+  <testcase name="test1_ServerPOSTRating" classname="edu.illinois.cs.cs124.ay2023.mp.test.MP3Test$UnitTests" time="1.64"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

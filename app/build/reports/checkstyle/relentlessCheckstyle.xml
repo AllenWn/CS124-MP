@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.12.4">
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\activities\CourseActivity.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\activities\MainActivity.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\adapters\SummaryListAdapter.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\application\CourseableApplication.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\helpers\Helpers.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\helpers\ResultMightThrow.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\models\Course.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\models\Summary.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\network\Client.java">
+</file>
+<file name="C:\Users\weini\StudioProjects\MP-Fall2023-java-AllenWn\app\src\main\java\edu\illinois\cs\cs124\ay2023\mp\network\Server.java">
+</file>
+</checkstyle>
