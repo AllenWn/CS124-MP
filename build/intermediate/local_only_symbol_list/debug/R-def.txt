@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id description
+id layout
+id rating
+id recycler_view
+id search
+id title
+id toolbar
+layout activity_course
+layout activity_main
+layout item_summary
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string search_courses
+string search_icon
+string search_title
+style AppTheme
+xml network_security_config
